@@ -1,0 +1,14 @@
+#coin {
+    width: 100px;
+    height: 100px;
+}
+
+#coin.tails {
+    background: no-repeat center url('./tails.png');
+    background-size: 100px 100px;
+}
+
+#coin.heads {
+    background: no-repeat center url('./Heads.png');
+    background-size: 100px 100px;
+}
